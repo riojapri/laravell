@@ -57,11 +57,9 @@
                     px-5
                     py-3
                     duration-300
-                    bg-white
+                    bg-black
                     shadow
                     lg:w-auto
-                    collapse
-                    navbar-collapse
                     lg:block
                     top-100
                     mt-full
